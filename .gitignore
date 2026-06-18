@@ -1,0 +1,14 @@
+sample_data/
+configurations/
+logs/
+.last_opt_in_prompt.yaml
+.last_survey_prompt.yaml
+.last_update_check.json
+active_config
+config_sentinel
+default_configs.db
+gce
+__pycache__/
+.ipynb_checkpoints/
+*.db
+*.yaml
